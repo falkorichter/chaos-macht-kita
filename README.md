@@ -55,5 +55,6 @@ Es wird etwas gedruckt
 * https://www.haus-der-kleinen-forscher.de
   * https://www.haus-der-kleinen-forscher.de/de/zertifizierung
 * https://www.meine-forscherwelt.de/intro/start.html
+* https://www.ihk-berlin.de/pruefungen-lehrgaenge/ihk-die-weiterbildung/haus-der-kleinen-forscher
 
 Chaos macht Schule by Falko Richter is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
