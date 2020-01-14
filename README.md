@@ -21,7 +21,7 @@ Besuch bei einem lokalen Hackerspace oder 3D Firma oder ändlich
  * https://3d-druck-shop.youin3d.com
 
 ### Problem
-Es ist sehr klein. 
+Es ist sehr klein in dem Space - viele Kinder.
 
 ### Ziele
 * Frische Luft
