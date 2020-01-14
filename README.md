@@ -3,6 +3,11 @@
 
 > Der CCC begrüßt ausdrücklich sowohl den respektlosen als auch den völlig selbstverständlichen Umgang mit komplizierter Technik.
 
+Inspiriert von Chaos macht Schule und dem Fakt das 3D Druck mitlerweile so ausgereift und zugänglich geworden ist, hab ich mich gefragt warum nicht schon Kinder in der Vorschule (ab 4,5 Jahre) nicht auch schon an das Thema herangeführt werden können. Meine Tochter und der neue 3D Drucker bei uns zu Hause zeigt mir, dass es möglich ist man sinnvoll etwas umsetzen kann.
+
+Ziele:
+* Kinder verstehen 3D Druck als 
+
 # Konzept
 
 ## 1. Phase Vorbereitung
