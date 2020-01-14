@@ -19,7 +19,7 @@ Ziele:
 * Begriffe spielerischt lernen
   * Filament
   * Extruieren
-* Hitze
+* verstehen dass Hitze das Filament schmilzt und man es formen kann
 
 ## 2. Phase Ausflug
 Besuch bei einem lokalen Hackerspace oder 3D Firma oder ändlich
