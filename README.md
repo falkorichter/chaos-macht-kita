@@ -39,6 +39,8 @@ Es ist sehr klein in dem Space - viele Kinder.
   * "Industrie 4.0 und 3D-Druck"
   * "Zukunft und 3D-Druck"
   * 3D-Scanner
+  
+Drucker erklären mit baby spielzeug
 
 ## 3. Phase Drucken in der Kita
 
@@ -50,6 +52,12 @@ Es wird etwas gedruckt
  * Beispielkatze
  * Etwas von thingyverse aussuchen und drucken (mit Computer und Cura und so) - auf die SD Karte und los gehts
  * Dauer: ~30Minuten Druckdauer
+
+### 4. Phase
+
+Bemalen (Kreidestifte)
+
+Verzieren (3D Pen)
 
 # notes
 * http://morganya.org/charisma.html One Laptop per child failed
