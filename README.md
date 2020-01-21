@@ -11,6 +11,45 @@ Inspiriert von Chaos macht Schule und dem Fakt das 3D Druck mitlerweile so ausge
 * nachhaltige Produktion von Spielzeug/Ersatzteilen spielerisch beibringen
 * Spaß an Technik vermitteln
 
+## Vereinbarkeit mit Kita Alltag / Beispiel Situtionsansatz
+
+Ich sehe die größte Relevanz von 3D Druckern schon für Kinder ab 4 in der Erfahrung, dass kaputte Dinge eigentlich immer repariert werden können. **Nachhaltiges Denken** wird so gefördert. Natürlich besteht eine große Abhängigkeit von den Erwachsenen, welche die Machine bedienen und die Modell für den Druck vorbereiten müssen.
+
+Unser Kita hebt besonders **"AUSTAUSCH UND ZUSAMMENARBEIT MIT DEN ELTERN"** als Alleinstellungsmerkmal hervor. Ein Projekt von einem Vater qualifiziert irgendwie automatisch. 
+
+
+### Aus ["Konzeptionelle Grundsätze1 im Situationsansatz"](https://www.situationsansatz.de/files/texte%20ista/ista_pdf/16%20Grundsaetze.pdf) von INA
+  
+| 3. Erzieherinnen analysieren, was Kinder können und wissen und was sie erfahren wollen. Sie eröffnen ihnen Zugänge zu neuem Wissen und neuen Erfahrungen, die für ihr Aufwachsen von Bedeutung sind.
+
+* "Zugänge zu neuem Wissen" ✅
+* "für ihr Aufwachsen von Bedeutung" -> nachhaltige Produktion von Spielzeug, Reparatur von Gegenständen
+
+| 4. [...] wenden sich gegen stereotype Rollenzuweisungen und - übernahmen
+
+* Technik für Jungs und Mädchen ✅
+
+| 5. Erzieherinnen unterstützen Kinder, ihre Phantasie und ihre schöpferischen Kräfte im Spiel zu entfalten und sich die Welt in der ihrer Entwicklung gemäßen Weise anzueignen.
+
+* Kreativität mit den gedrucken Objekten muss gefördert werden. 
+* Drucken und
+
+| 8. Im täglichen Zusammenleben findet eine bewusste Auseinandersetzung mit Werten und Normen statt. Regeln werden gemeinsam mit Kindern vereinbart.
+
+* Regeln, wie mit dem Drucken umzugehen sei, müssen zusammen erarbeitet werden. Keine Vorgabe von Verboten. 
+  * das Ding wird heiß
+  * das Ding ist fragil
+  * wenn es schief geht, Bescheid geben oder und dann stoppen lassen
+
+
+### Situationen
+
+Kappe vom Lastenrad ist abgefallen -> Ersatz gibt es nicht zu kaufen -> Ein [Ersatzteil](https://www.thingiverse.com/thing:3808193) kann gedruckt werden
+
+Geschenke drucken -> Selbst die Test-Druck-Katze ist ein tolles Spielzeug und kann als Geschenk viel Freunde in die Gruppe und in die Familien der Kinder bringen
+
+Spielzeug selber drucken -> Man könnte einfache Spielfiguren selber drucken und so eigene Brettspiele bauen, oder bekannte Brettspiele nachbauen und mit eigener Kreativität ergänzen
+
 # Konzept / Phasen
 
 ## 1. Phase Vorbereitung
