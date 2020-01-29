@@ -1,5 +1,6 @@
 # chaos-macht-kita
 ![cc-by-nc](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
+Diese Seite soll als [Open Educational Resource](https://open-educational-resources.de/) wahrgenommen werden.
 
 > Der CCC begrüßt ausdrücklich sowohl den respektlosen als auch den völlig selbstverständlichen Umgang mit komplizierter Technik.
 
