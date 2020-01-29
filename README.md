@@ -108,3 +108,6 @@ Verzieren (3D Pen)
 * https://www.ihk-berlin.de/pruefungen-lehrgaenge/ihk-die-weiterbildung/haus-der-kleinen-forscher
 
 Chaos macht Schule by Falko Richter is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+![Open Educational Resources Logo von Jonathas Mello unter CC BY 3.0 ](https://open-educational-resources.de/wp-content/uploads/Global_Open_Educational_Resources_Logo-275x183.png)
