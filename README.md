@@ -12,6 +12,10 @@ Inspiriert von Chaos macht Schule und dem Fakt das 3D Druck mitlerweile so ausge
 * nachhaltige Produktion von Spielzeug/Ersatzteilen spielerisch beibringen
 * Spaß an Technik vermitteln
 
+# News: #
+* am 21. Mai 2020 gab es einen Lifestream zum Thema 3D-Druck für Kita Kinder. Unter https://www.volkersfreunde.de/chaos-macht-kita-3d-druck-fuer-kinder-1-0/ gibt es alle Informationen.
+[![Link zum Live Stream](https://img.youtube.com/vi/UYhys3mDXUc/0.jpg)](https://www.youtube.com/watch?v=UYhys3mDXUc&feature=youtu.be)
+
 ## Vereinbarkeit mit Kita Alltag / Beispiel Situtionsansatz
 
 Ich sehe die größte Relevanz von 3D Druckern schon für Kinder ab 4 in der Erfahrung, dass kaputte Dinge eigentlich immer repariert werden können. **Nachhaltiges Denken** wird so gefördert. Natürlich besteht eine große Abhängigkeit von den Erwachsenen, welche die Machine bedienen und die Modell für den Druck vorbereiten müssen.
