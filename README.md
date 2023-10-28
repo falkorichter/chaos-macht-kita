@@ -15,6 +15,7 @@ Inspiriert von Chaos macht Schule und dem Fakt das 3D Druck mitlerweile so ausge
 # News: #
 * am 21. Mai 2020 gab es einen Lifestream zum Thema 3D-Druck für Kita Kinder. Unter https://www.volkersfreunde.de/chaos-macht-kita-3d-druck-fuer-kinder-1-0/ gibt es alle Informationen.
 [![Link zum Live Stream](https://img.youtube.com/vi/UYhys3mDXUc/0.jpg)](https://www.youtube.com/watch?v=UYhys3mDXUc&feature=youtu.be)
+* am 20. Oktober 2023 gab es ein Live 3D Druck Event in der INA Habersaathstraße bei #septembersister 
 
 ## Vereinbarkeit mit Kita Alltag / Beispiel Situtionsansatz
 
