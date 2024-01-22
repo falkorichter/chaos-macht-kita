@@ -13,12 +13,14 @@ Inspiriert von Chaos macht Schule und dem Fakt das 3D Druck mitlerweile so ausge
 * Spaß an Technik vermitteln
 
 # News: #
-* am 21. Mai 2020 gab es einen Lifestream zum Thema 3D-Druck für Kita Kinder. Unter https://www.volkersfreunde.de/chaos-macht-kita-3d-druck-fuer-kinder-1-0/ gibt es alle Informationen.
-[![Link zum Live Stream](https://img.youtube.com/vi/UYhys3mDXUc/0.jpg)](https://www.youtube.com/watch?v=UYhys3mDXUc&feature=youtu.be)
-*  auf dem Chaos Communication Camp hat Falko das Thema vorgestellt https://media.ccc.de/v/2023-08-16-falko-uber-3d-druck-fur-kinder
+* **Jannuar 2023** Coaching und setup in der Fröbel Lisa-Fittko-Straße
+
+*  auf dem Chaos Communication Camp im **August 2023** hat Falko das Thema vorgestellt und sucht Mitstreiter
    * [media.ccc.de/v/2023-08-16-falko-uber-3d-druck-fur-kinder](https://media.ccc.de/v/2023-08-16-falko-uber-3d-druck-fur-kinder)
    * [www.youtube.com](https://www.youtube.com/watch?v=v194m5RxhLc)
-* am 20. Oktober 2023 gab es ein Live 3D Druck Event in der INA Habersaathstraße bei #septembersister 
+* am **20. Oktober 2023** gab es ein Live 3D Druck Event in der INA Habersaathstraße bei #septembersister
+* am **21. Mai 2020** gab es einen Lifestream zum Thema 3D-Druck für Kita Kinder. Unter https://www.volkersfreunde.de/chaos-macht-kita-3d-druck-fuer-kinder-1-0/ gibt es alle Informationen.
+* [![Link zum Live Stream](https://img.youtube.com/vi/UYhys3mDXUc/0.jpg)](https://www.youtube.com/watch?v=UYhys3mDXUc&feature=youtu.be)
 
 ## Vereinbarkeit mit Kita Alltag / Beispiel Situtionsansatz
 
@@ -115,6 +117,9 @@ Verzieren (3D Pen)
   * https://www.haus-der-kleinen-forscher.de/de/zertifizierung
 * https://www.meine-forscherwelt.de/intro/start.html
 * https://www.ihk-berlin.de/pruefungen-lehrgaenge/ihk-die-weiterbildung/haus-der-kleinen-forscher
+* Bei Fröbel gehört ein 3D Drucker zur _"digitalen Ausstattung"_
+  * https://www.paperturn-view.com/de/frbel/themenheft-digitale-medien-2020-1?pid=MjE219447&p=39
+  * [Kindgerecht "Kita digital"](https://www.paperturn-view.com/?pid=Mjg286003&v=1.1&bgcolor=%23FFFFFF&embed=script&shadow=1&flipSound=1&hardCover=%22)
 
 Chaos macht Schule by Falko Richter is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
