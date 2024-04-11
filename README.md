@@ -13,8 +13,14 @@ Inspiriert von Chaos macht Schule und dem Fakt das 3D Druck mitlerweile so ausge
 * Spaß an Technik vermitteln
 
 # News: #
-* **Jannuar 2023** Coaching und setup in der Fröbel Lisa-Fittko-Straße
 
+* **April 2024** Mini-Workshop mit den Pädagoginnen in der Fröbel Lisa-Fittko-Straße geplant
+* **April 2024** Futurium macht auch 3D Druck
+   * https://futurium.de/de/open-lab-abend/open-lab-abend-3d-drucker-2/open-lab-abend-3d-drucker-3
+   * https://www.museumsportal-berlin.de/de/veranstaltungen/open-lab-abend-3d-drucker-4/
+   * Termine unter https://futurium.de/de/veranstaltungen
+* **April 2024** https://35services.de/2024/diy-eine-3d-druck-und-elektronik-ag-an-der-ktg/#hausaufgabe01
+* **Januar 2024** Setup in der Fröbel Lisa-Fittko-Straße - Drucker ausgepackt und eingerichtet. Er druckt.
 *  auf dem Chaos Communication Camp im **August 2023** hat Falko das Thema vorgestellt und sucht Mitstreiter
    * [media.ccc.de/v/2023-08-16-falko-uber-3d-druck-fur-kinder](https://media.ccc.de/v/2023-08-16-falko-uber-3d-druck-fur-kinder)
    * [www.youtube.com](https://www.youtube.com/watch?v=v194m5RxhLc)
